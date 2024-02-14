@@ -1,3 +1,3 @@
-# bottom fraggers
+# bottom fraggers :space_invader:
 
-too much swag for bottom frag
+A programming group of close gamer friends!
